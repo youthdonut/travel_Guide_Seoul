@@ -16,4 +16,4 @@
 
 ![기후동행카드 이미지](https://i.namu.wiki/i/evLkd6m0i_tQzNRhamCPy9xfSDVkQaoyyqaND-bAoqmgCh-mCTgzZBzkCpXaPACv1lN2e0p94_zIgKDlWLvjKw.webp)
 
-- 시민들의 **_따가운 눈총_**을 받을 수 있다.
+- 시민들의 따가운 눈총을 받을 수 있다.
