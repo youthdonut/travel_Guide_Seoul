@@ -107,8 +107,6 @@
 
 - 핸드폰(**삼성 핸드폰만**)에 카드를 저장해서 대중 교통을 이용하는 방식, 앞서 설명한 방법들보다 훨씬 더 간편하고 카드의 단점인 분실 위험을 상쇄할 수 있어, 핸드폰이 있다면 좋은 결제 방식이다.
 
-![삼성페이](<https://i.namu.wiki/i/wFqYbhijgfKChiLZ6QBQWShuklVJOywnwJNG8Zx3noY8K2oRQFj2h_JhxaHbZgUwM-y2o7AGVEIfJ5c5UeSiMg.webp>)
-
 
 
 
